@@ -1,0 +1,19 @@
+{
+  "name": "jira-report",
+  "version": "0.0.1",
+  "description": "Jira report",
+  "scripts": {
+    "start": "node bin/www.js"
+  },
+  "author": "caicloud",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "jira-connector": "2.15.1",
+    "morgan": "1.9.1",
+    "colors": "1.3.1"
+  },
+  "devDependencies": {
+    
+  }
+}
